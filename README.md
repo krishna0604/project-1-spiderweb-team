@@ -1,4 +1,6 @@
-PROJECT BUSINESS INTELLIGENCE AND DATA ENGINEER
+PROJECT DATA ENGINEER BY SPIDERWEB TEAM
+
+Kelompok 5 FTDE-01 Digital Skola
 
 Selamat datang, kami sudah menyelesaikan berbagai problem bisnis berupa mini project dari Bootcamp data Engineer, Digital Skola. Kami telah menyelesaikan tahap ETL dan Business Intelligence dengan best practicenya.
 
