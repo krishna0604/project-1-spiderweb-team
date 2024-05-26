@@ -2,9 +2,10 @@ PROJECT BUSINESS INTELLIGENCE AND DATA ENGINEER
 
 Selamat datang, kami sudah menyelesaikan berbagai problem bisnis berupa mini project dari Bootcamp data Engineer, Digital Skola. Kami telah menyelesaikan tahap ETL dan Business Intelligence dengan best practicenya.
 
-Nama anggota Kelompok : 
+Nama anggota Kelompok : ( Nama lengkap - username github - email )
+
 1. I Gusti Agung Krishna Dwipayana - krishna0604 - agungkrishna04@gmail.com
-2. Hafidha Harfiana Dewi
+2. Hafidha Harfiana Dewi - putuwistika - 12820001@mahasiswa.itb.ac.id
 3. hermawan Adi Prasetyo
 4. Humairoh
 5. I Putu Ferry Wistika
