@@ -7,10 +7,10 @@ Selamat datang, kami sudah menyelesaikan berbagai problem bisnis berupa mini pro
 Nama anggota Kelompok : ( Nama lengkap - username github - email )
 
 1. I Gusti Agung Krishna Dwipayana - krishna0604 - agungkrishna04@gmail.com
-2. Hafidha Harfiana Dewi - putuwistika - 12820001@mahasiswa.itb.ac.id
+2. Hafidha Harfiana Dewi 
 3. hermawan Adi Prasetyo
 4. Humairoh
-5. I Putu Ferry Wistika
+5. I Putu Ferry Wistika - putuwistika - 12820001@mahasiswa.itb.ac.id
 
 Daftar Isi : 
 1. Tahap Pertama : Membuat koneksi dari dbeaver ke database DWH
