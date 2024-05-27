@@ -7,9 +7,9 @@ Selamat datang, kami sudah menyelesaikan berbagai problem bisnis berupa mini pro
 Nama anggota Kelompok : ( Nama lengkap - username github - email )
 
 1. I Gusti Agung Krishna Dwipayana - krishna0604 - agungkrishna04@gmail.com
-2. Hafidha Harfiana Dewi 
-3. hermawan Adi Prasetyo
-4. Humairoh
+2. Hafidha Harfiana Dewi - HafidhaHD - harfiana.hafidha@gmail.com
+3. hermawan Adi Prasetyo - adiprasetyohermawan - adiprasetyohermawan00@gmail.com
+4. Humairoh - humairoh22 - humairohhumay@yahoo.co.id
 5. I Putu Ferry Wistika - putuwistika - 12820001@mahasiswa.itb.ac.id
 
 Daftar Isi : 
