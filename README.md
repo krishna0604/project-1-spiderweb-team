@@ -1,10 +1,10 @@
-PROJECT DATA ENGINEER BY SPIDERWEB TEAM
+<h1>PROJECT DATA ENGINEER BY SPIDERWEB TEAM</h1>
 
-Kelompok 5 FTDE-01 Digital Skola
+<h2>Kelompok 5 FTDE-01 Digital Skola</h2>
 
 Selamat datang, kami sudah menyelesaikan berbagai problem bisnis berupa mini project dari Bootcamp data Engineer, Digital Skola. Kami telah menyelesaikan tahap ETL dan Business Intelligence dengan best practicenya.
 
-Nama anggota Kelompok : ( Nama lengkap - username github - email )
+<h2>Nama anggota Kelompok : ( Nama lengkap - username github - email )</h2>
 
 1. I Gusti Agung Krishna Dwipayana - krishna0604 - agungkrishna04@gmail.com
 2. Hafidha Harfiana Dewi - HafidhaHD - harfiana.hafidha@gmail.com
@@ -12,7 +12,7 @@ Nama anggota Kelompok : ( Nama lengkap - username github - email )
 4. Humairoh - humairoh22 - humairohhumay@yahoo.co.id
 5. I Putu Ferry Wistika - putuwistika - 12820001@mahasiswa.itb.ac.id
 
-Daftar Isi : 
+<h2>Daftar Isi :</h2> 
 1. Tahap Pertama : Membuat koneksi dari dbeaver ke database DWH
 2. Tahap Kedua : Membuat koneksi dari dbeaver ke database OLTP
 3. Tahap Ketiga : Pastikan table-tabel didalam database OLTP sudah muncul
@@ -25,7 +25,7 @@ Daftar Isi :
 10. Tahap Kesepuluh : Membuat Data Mart sesuai dengan Business Requirements (Analis)
 11. Tahap Ke Sebelas : Mendesain Dashboard sesuai dengan Business Requirements (Analis)
 
-Tentang Proyek : 
+<h2>Tentang Proyek : </h2>
 Proyek ini muncul sebagai bentuk penyelesaian sebuah mini project pertama dari bootcamp data engineer digital skola. hasil akhir proyek ini adalah sebuah dashboard analisa dan proses ETL data dari awal sampai akhir. Adapun 10 Business Requirementnya adalah : 
 
 1. Total Penjualan per Bulan : Mengidentifikasi tren musiman dan pola penjualan bulanan untuk membantu perencanaan inventaris, strategi pemasaran, dan penjadwalan staf
@@ -59,7 +59,8 @@ Bentuk Chart: Bar Chart atau Stacked Bar Chart.
 10. Tingkat Konversi Voucher : Mengukur efektivitas kampanye voucher, mengidentifikasi jenis voucher yang paling menarik bagi pelanggan, dan mengoptimalkan strategi penggunaan voucher.
 
 
-Tentu saja sebelum kami memenuhi kebutuhan bisnis ini kami melakukan 10 langkah proses ETL Data Engineer, yaitu : 
+<h2>Tentu saja sebelum kami memenuhi kebutuhan bisnis ini kami melakukan 10 langkah proses ETL Data Engineer, yaitu : </h2>
+
 1. Tahap Pertama : Membuat koneksi dari dbeaver ke database DWH. Kami sudah membuat database lokal data warehouse dengan host : 47.237.106.32 dan nama oltp : spiderweb_dwh
 
 2. Tahap Kedua : Membuat koneksi dari dbeaver ke database OLTP. Kami sudah membuat database oltp lokal dengan host : 47.237.106.32 dan nama oltp : spiderweb_oltp
